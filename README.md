@@ -11,7 +11,6 @@ ds_sandesh_naikwade/
 │
 ├── csv_files/
 │   ├── merged_data.csv
-│   └── merged_data_final.csv
 │
 ├── outputs/
 │   ├── pnl_vs_sentiment.png
@@ -69,3 +68,4 @@ CSV-based data processing
 Author
 
 Sandesh Naikwade
+
